@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hannah Chung</h1>
 <h3 align="center">A current Junior at Wheaton College studying Computer Science and Studio Art.</h3>
 
-- 👨‍💻 All of my projects are available at [hannahychung.com](hannahychung.com)
-
 - 📫 How to reach me: **hannahyachung@gmail.com**
 
 
