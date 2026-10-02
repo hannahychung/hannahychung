@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hannah Chung</h1>
-<h3 align="center">A current Junior at Wheaton College studying Computer Science and Studio Art.</h3>
+<h3 align="center">A current Senior at Wheaton College studying Computer Science and Studio Art.</h3>
 
 - 👨‍💻 Check out some of my other work at [hannahychung.com](hannahychung.com)
 
